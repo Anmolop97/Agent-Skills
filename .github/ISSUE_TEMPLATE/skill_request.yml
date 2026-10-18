@@ -1,0 +1,36 @@
+name: 🚀 Request a New Skill
+description: Suggest an idea or operational workflow for a new agent skill
+title: "[Skill Request]: "
+labels: ["enhancement", "skill-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing a new skill for the Antigravity Skills Vault!
+
+  - type: input
+    id: skill-name
+    attributes:
+      label: Skill Name
+      description: What should this skill be named? (lowercase, kebab-case, e.g. `docker-optimizer`)
+      placeholder: e.g. docker-optimizer
+    validations:
+      required: true
+
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Skill Purpose & Use Case
+      description: What specific engineering challenge does this skill solve for an AI agent?
+      placeholder: Explain what capabilities, commands, or workflows this skill will automate...
+    validations:
+      required: true
+
+  - type: textarea
+    id: triggers
+    attributes:
+      label: Trigger Keywords & Scenarios
+      description: When should an AI agent automatically activate this skill?
+      placeholder: e.g., Triggers when user asks to "containerize", "optimize dockerfile", or "build image"...
+    validations:
+      required: true

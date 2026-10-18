@@ -1,0 +1,36 @@
+name: 🐛 Report a Bug or Prompt Issue
+description: Report an issue, incorrect behavior, or failing workflow in an existing skill
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found an issue in one of the skills? Let us know so we can fix it!
+
+  - type: input
+    id: affected-skill
+    attributes:
+      label: Affected Skill
+      description: Which skill is causing the issue?
+      placeholder: e.g., webapp-testing, git-workflow
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: Description of the Problem
+      description: What unexpected behavior or failure occurred?
+      placeholder: Describe what the agent did incorrectly or what failed...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: What should the skill or agent have done instead?
+      placeholder: Clear explanation of desired outcome...
+    validations:
+      required: true
