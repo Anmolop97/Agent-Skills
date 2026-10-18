@@ -58,8 +58,8 @@ Detailed operational workflow instructions, quality gates, and procedural rules.
 
 2. **Clone your Fork**:
    ```bash
-   git clone https://github.com/<your-username>/antigravity-skills-vault.git
-   cd antigravity-skills-vault
+   git clone https://github.com/<your-username>/Agent-Skills.git
+   cd Agent-Skills
    ```
 
 3. **Create a Feature Branch**:
@@ -88,4 +88,4 @@ Detailed operational workflow instructions, quality gates, and procedural rules.
 
 ## 💡 Where to Start?
 
-Check out our [Good First Issues](https://github.com/Anmolop97/antigravity-skills-vault/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) for requested skills that the community is looking for!
+Check out our [Good First Issues](https://github.com/Anmolop97/Agent-Skills/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) for requested skills that the community is looking for!

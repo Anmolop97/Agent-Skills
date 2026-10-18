@@ -1,15 +1,15 @@
 <div align="center">
 
-# ⚡ Antigravity Skills Vault
+# ⚡ Agent-Skills
 
-### *Supercharge Google Antigravity & AI Coding Assistants with 31+ Production-Grade Agentic Skills*
+### *The Universal Skill Vault for AI Coding Agents (Antigravity, Claude Code, Cursor, Copilot & MCP)*
 
 <p align="center">
-  <a href="https://github.com/Anmolop97/antigravity-skills-vault/stargazers"><img src="https://img.shields.io/github/stars/Anmolop97/antigravity-skills-vault?style=for-the-badge&color=ffd700&logo=star" alt="Stars Badge"/></a>
-  <a href="https://github.com/Anmolop97/antigravity-skills-vault/network/members"><img src="https://img.shields.io/github/forks/Anmolop97/antigravity-skills-vault?style=for-the-badge&color=6366f1" alt="Forks Badge"/></a>
+  <a href="https://github.com/Anmolop97/Agent-Skills/stargazers"><img src="https://img.shields.io/github/stars/Anmolop97/Agent-Skills?style=for-the-badge&color=ffd700&logo=star" alt="Stars Badge"/></a>
+  <a href="https://github.com/Anmolop97/Agent-Skills/network/members"><img src="https://img.shields.io/github/forks/Anmolop97/Agent-Skills?style=for-the-badge&color=6366f1" alt="Forks Badge"/></a>
   <img src="https://img.shields.io/badge/Skills-31%20Specialized%20Skills-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Skills Badge"/>
   <img src="https://img.shields.io/badge/License-MIT-0ea5e9?style=for-the-badge" alt="License Badge"/>
-  <img src="https://img.shields.io/badge/Agent-Antigravity%20%7C%20Claude%20Code-8b5cf6?style=for-the-badge&logo=robot" alt="Compatible Agents"/>
+  <img src="https://img.shields.io/badge/Compatible-Antigravity%20%7C%20Claude%20%7C%20Cursor-8b5cf6?style=for-the-badge&logo=robot" alt="Compatible Agents"/>
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 </div>
 
-## 💡 What is Antigravity Skills Vault?
+## 💡 What is Agent-Skills?
 
-Antigravity Skills are **modular intelligence extensions** that turn generic LLMs into domain-specialized senior engineers. Instead of relying on raw prompts, these skills equip agents with:
+**Agent-Skills** is a modular collection of production-grade capabilities and deterministic workflows for autonomous AI coding agents. Instead of relying on raw prompts, these skills equip agents with:
 
 - 🛡️ **Zero-Error Quality Gates** (Auto linting, test-driven validation, pre-push verification)
 - 🎨 **Distinctive Design Protocols** (Design systems, shadcn/ui patterns, responsive layouts)
@@ -60,7 +60,7 @@ Installation complete! 31 skills ready for Antigravity & AI Agents.
 Clone and install all 31 skills into your local Antigravity environment with a single command:
 
 ```powershell
-git clone https://github.com/Anmolop97/antigravity-skills-vault.git; cd antigravity-skills-vault; .\install.ps1
+git clone https://github.com/Anmolop97/Agent-Skills.git; cd Agent-Skills; .\install.ps1
 ```
 
 ### Advanced Installation Flags
