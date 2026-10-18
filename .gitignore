@@ -1,0 +1,24 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor & temporary files
+*.tmp
+*.bak
+*.log
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Scratch & dependencies
+scratch/
+node_modules/
+dist/
+build/
