@@ -81,6 +81,6 @@ git status
 
 ### Step 7: Report Success
 Provide the user with:
-1. The remote commit link: `https://github.com/Anmolop97/TheHellspires/commit/<commit-hash>`
+1. The remote commit link: `https://github.com/<username>/<repo>/commit/<commit-hash>`
 2. A brief bullet-point summary of the deployed features/fixes.
 3. Clean working tree confirmation (`working tree clean`).
